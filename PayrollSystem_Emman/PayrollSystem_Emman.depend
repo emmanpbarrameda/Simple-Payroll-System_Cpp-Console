@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686151148 source:d:\programming projects\codeblocks files\projects\c++\payrollsystem_emman\main.cpp
+	<iostream>
+	<limits>
+
